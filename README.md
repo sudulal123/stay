@@ -13,7 +13,6 @@
 2. [Tech Stacks](#tech-stacks)
 3. [Quick Start](#quick-start)
 4. [Features](#features)
-5. [To-do](#to-do)
 
 ## <a name="introduction"> Introduction </a>
 
@@ -78,8 +77,10 @@ TBD
 
 **TBD**: TBD.
 
+<!-- 
+5. [To-do](#to-do)
 ## <a name="to-do"> To-do </a>
-
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
+-->
