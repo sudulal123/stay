@@ -32,7 +32,7 @@ TBD
 
 - [npm](https://www.npmjs.com/)
 - [Node.js](https://nodejs.org/en)
-- [PostgresSQL](https://www.postgresql.org/) An account for database
+- [MongoDB](https://www.mongodb.com/) An account for database
   - Create a new database instance on PostgresSQL.
   - Copy the connection string provided by PostgresSQL.
 
