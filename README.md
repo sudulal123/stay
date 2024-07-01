@@ -33,8 +33,8 @@ TBD
 - [npm](https://www.npmjs.com/)
 - [Node.js](https://nodejs.org/en)
 - [MongoDB](https://www.mongodb.com/) An account for database
-  - Create a new database instance on PostgresSQL.
-  - Copy the connection string provided by PostgresSQL.
+  - Create a new database instance on MongoDB.
+  - Copy the connection string provided by MongoDB.
 
   - Replace the `DATABASE_URL` in the `.env` file with your ElephantSQL connection string
 
