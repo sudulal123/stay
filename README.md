@@ -44,30 +44,30 @@ TBD
 
   ```bash
   # Clone the Repository
-    git clone https://github.com/sudulal123/stay.git
-    cd stay
+  git clone https://github.com/sudulal123/stay.git
+  cd stay
 
   # Navigate to the backend directory
-   cd backend
+  cd backend
 
   # Install npm packages
-   npm install
+  npm install
 
   # Start the backend server
-    npm start
+  npm start
   ```
 
   **Frontend setup**:
 
   ```bash
   # Navigate to frontend directory
-    cd frontend
+  cd frontend
 
   # Install npm packages
-    npm install
+  npm install
 
   # start frontend server
-    npm run dev
+  npm run dev
   ```
 
 ## <a name="features"> Features </a>
