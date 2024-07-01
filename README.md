@@ -80,6 +80,6 @@ TBD
 
 ## <a name="to-do"> To-do </a>
 
-- [ ] To Fix: TBD
-- [ ] To Fix: TBD
-- [ ] To implement: TBD
+- [ ] TBD
+- [ ] TBD
+- [ ] TBD
